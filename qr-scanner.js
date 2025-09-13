@@ -1,0 +1,1 @@
+// QR scanner JS will go here
